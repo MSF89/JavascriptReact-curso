@@ -1,0 +1,22 @@
+[
+    {
+        "mes":"Enero",
+        "cantidad2021":50,
+        "cantidad2022":80
+    },
+    {
+        "mes":"Febrero",
+        "cantidad2021":60,
+        "cantidad2022":75
+    },
+    {
+        "mes":"Marzo",
+        "cantidad2021":80,
+        "cantidad2022":60
+    },
+    {
+        "mes":"Abril",
+        "cantidad2021":120,
+        "cantidad2022":150
+    }
+]

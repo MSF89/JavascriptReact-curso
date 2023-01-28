@@ -1,0 +1,20 @@
+[
+    {
+        "id":"1",
+        "nombrePerfil":"Octavio Robleto",
+        "cargo":"Coordinador",
+        "titulo":"Ingeniero"
+    },
+    {
+        "id":"2",
+        "nombrePerfil":"Mariana Bracho",
+        "cargo":"Docente",
+        "titulo":"Licenciada"
+    },
+    {
+        "id":"3",
+        "nombrePerfil":"Analia Perez",
+        "cargo":"Coordinadora",
+        "titulo":"Terciario"
+    }
+]
